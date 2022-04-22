@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.arcgisonline.com/home/pkinfostylesheet.xsl"?>
+<pkinfo Culture='en-US'>
+<ID>D18B3ED9-4CF5-4B72-BFF5-EB2A3E0D589E</ID>
+<name>USGS_Wildland_Fire_Polygon_Data</name>
+<version>12.8</version>
+<size>-1</size>
+<created></created>
+<type>Service Definition</type>
+<servable>true</servable>
+<packagelocation></packagelocation>
+<pkinfolocation></pkinfolocation>
+<documenttypes>
+<documenttype>msd</documenttype>
+</documenttypes>
+</pkinfo>

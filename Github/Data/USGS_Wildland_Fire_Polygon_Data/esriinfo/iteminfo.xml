@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>USGS_Wildland_Fire_Polygon_Data</name>
+<guid>D18B3ED9-4CF5-4B72-BFF5-EB2A3E0D589E</guid>
+<version>1.0</version>
+<created></created>
+<modified></modified>
+<catalogpath></catalogpath>
+<snippet>USGS wildland fire polygon data for ScienceBase</snippet>
+<description></description>
+<summary>USGS wildland fire polygon data for ScienceBase</summary>
+<title>USGS Wildland Fire Polygon Data</title>
+<tags>USGS,Wildfire,Wildland Fire,Prescribed Fire,Polygons</tags>
+<type>Service Definition</type>
+<typekeywords>
+<typekeyword>ArcGIS</typekeyword>
+<typekeyword>Service Definition</typekeyword>
+<typekeyword>.sd</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<extent>
+<xmin>-180</xmin>
+<ymin>-89.9714208050498</ymin>
+<xmax>180</xmax>
+<ymax>90</ymax>
+</extent>
+<spatialreference>GCS_WGS_1984</spatialreference>
+<minScale>0</minScale>
+<maxScale>1.7976931348623157e+308</maxScale>
+<datalastModifiedTime></datalastModifiedTime>
+<accessinformation></accessinformation>
+<licenseinfo></licenseinfo>
+</ESRI_ItemInformation>
